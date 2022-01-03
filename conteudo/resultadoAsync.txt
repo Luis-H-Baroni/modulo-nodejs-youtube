@@ -1,0 +1,3 @@
+Resultado do writeFileSync. 
+        Primeiro:primeiro
+        Segundo:teste

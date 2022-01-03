@@ -1,0 +1,5 @@
+Resultado do writeFileSync. 
+    Primeiro:primeiro
+    Segundo:testeResultado do writeFileSync. 
+    Primeiro:primeiro
+    Segundo:teste
